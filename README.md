@@ -2,7 +2,7 @@
   
   # 🤖 VEBTA DISCORD BOT
   
-  ![VEBTA Banner](https://i.imgur.com/YourBannerHere.png)
+  ![VEBTA Banner](https://vebta.ir/vebta/v.gif)
   
   ### The Ultimate All-in-One Discord Management Solution
 
